@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kumang-subba&count_private=true&show_icons=true&hide=contribs&theme=dark"/>
 </a>
                                                                                                                                            
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumang-subba&layout=compact&card_width=300&theme=dark)](https://github.com/kumang-subba/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumang-subba&layout=compact&card&theme=dark)](https://github.com/kumang-subba/github-readme-stats)
 
 </div>
 
