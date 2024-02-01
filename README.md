@@ -5,14 +5,18 @@
 
 ![](https://komarev.com/ghpvc/?username=kumang-subba&abbreviated=true)
 
+---
+
  🎓 I'm studying Business Information Technology at [Laurea University of Applied Sciences](https://www.laurea.fi/)
  
  🌱 I’m currently learning - Discord bots with Discord.js
 
+---
 ### My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,github,git,linux,mysql,mongodb,nextjs,nodejs,react,tailwind,vscode&perline=7)](https://skillicons.dev)
   
+---
 
 <a href="https://github.com/kumang-subba/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=kumang-subba&count_private=true&show_icons=true&hide=contribs&theme=dark"/>
