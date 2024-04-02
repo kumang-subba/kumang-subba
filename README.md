@@ -11,8 +11,7 @@
 ---
 
  🎓 I'm studying Business Information Technology at [Laurea University of Applied Sciences](https://www.laurea.fi/)
- 
- 🌱 I’m currently learning - Discord bots with Discord.js
+
 
 ---
 ### My Tech Stack
