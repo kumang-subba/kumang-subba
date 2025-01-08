@@ -14,7 +14,8 @@
 This real-life project was a significant milestone in my IT career, marking the successful completion of my internship, for which I received an official certification **by Kesko**.
 
 ---
-<div>
+<div align="center">
+  
 ### My Tech Stack
 
 <p align="center">
@@ -40,7 +41,8 @@ This real-life project was a significant milestone in my IT career, marking the 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumang-subba&theme=radical" alt="Contribution Stats" />
 </p>
 
----                                                                                                                                           
+--- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumang-subba&layout=compact&card&theme=dark)](https://github.com/kumang-subba/github-readme-stats)
 
 
