@@ -45,9 +45,5 @@ This real-life project was a significant milestone in my IT career, marking the 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumang-subba&layout=compact&card&theme=dark)](https://github.com/kumang-subba/github-readme-stats)
 
-
-### I use Neovim btw ([dotfiles](https://github.com/kumang-subba/dotfiles/tree/main))
-![neovim](https://github.com/kumang-subba/dotfiles/blob/main/screenshots/ss_neofetch.png)
-
 </div>
 
