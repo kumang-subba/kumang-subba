@@ -25,13 +25,12 @@ Every abstraction is a hint of something deeper
 
 ![meme](./lchs.gif)
 
-### 🔥 My Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumang-subba&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 
-### 📈 My Contributions:
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumang-subba&theme=radical" alt="Contribution Stats" />
 </p>
