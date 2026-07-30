@@ -27,19 +27,6 @@ Every abstraction is a hint of something deeper
 
 ![meme](./lchs.gif)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumang-subba&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumang-subba&theme=radical" alt="Contribution Stats" />
-</p>
-
---- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumang-subba&layout=compact&card&theme=dark)](https://github.com/kumang-subba/github-readme-stats)
 
 </div>
 
